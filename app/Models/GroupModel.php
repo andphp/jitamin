@@ -23,7 +23,7 @@ class GroupModel extends Model
      *
      * @var string
      */
-    const TABLE = 'groups';
+    const TABLE = 'm_groups';
 
     /**
      * Get query to fetch all groups.
